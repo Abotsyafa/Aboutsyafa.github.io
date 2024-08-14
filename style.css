@@ -1,0 +1,31 @@
+.judul {
+    color: white;
+}
+
+.judul1 {
+    font: message-box;
+
+}
+
+.judul2 {
+    font: message-box;
+}
+
+body {
+    max-width: 500px;
+    margin: 0 auto;
+    background: white;
+    background-image: url(background.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.font>th {
+    font-size: medium;
+}
+
+.copyright>p {
+    border: 0cqmax;
+    font-size: larger;
+}
